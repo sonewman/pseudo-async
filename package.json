@@ -1,0 +1,26 @@
+{
+  "name": "pseudo-async",
+  "version": "0.0.0",
+  "description": "Pseudo promise wrapper for those sticky situations where you may have a promise or a value",
+  "main": "pseudo-async",
+  "scripts": {
+    "test": "macchiato test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sonewman/pseudo-async.git"
+  },
+  "keywords": [
+    "pseudo",
+    "promise"
+  ],
+  "author": "Sam Newman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonewman/pseudo-async/issues"
+  },
+  "homepage": "https://github.com/sonewman/pseudo-async#readme",
+  "devDependencies": {
+    "macchiato": "^4.6.0"
+  }
+}
